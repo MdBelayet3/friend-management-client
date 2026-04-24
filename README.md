@@ -30,20 +30,18 @@ To run this project locally:
     npm install
     npm run dev
 
-Then open http://localhost:5173 in your browser.
+My backend Link https://github.com/MdBelayet3/friend-management-server
 
 ## Project Purpose
 
 The main goal of this project is to practice CRUD operations and understand how frontend and backend work together. It also helps me learn Node.js by building and connecting APIs.
-
-## Future Improvements
-
-- Add authentication system  
-- Improve UI design  
-- Add search and filtering  
-- Better error handling  
-
 ## Author
 
 Belayet Hossain  
 https://github.com/MdBelayet3  
+
+Image of my simple UI
+
+![Image Description](https://github.com/MdBelayet3/friend-management-client/blob/main/Screenshot%202026-04-24%20081648.png?raw=true)
+![Image Description](https://github.com/MdBelayet3/friend-management-client/blob/main/Screenshot%202026-04-24%20081739.png?raw=true)
+![Image Description](https://github.com/MdBelayet3/friend-management-client/blob/main/Screenshot%202026-04-24%20081753.png?raw=true)
